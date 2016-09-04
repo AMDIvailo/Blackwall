@@ -3,7 +3,7 @@ This is a social network
 There are 3 main conceptions:  
   -<b>Wall</b>  
   -<b>Profile Wall</b>  
-  -<b>Friends</br>  
+  -<b>Friends</b>  
   
 The way they work:  
   All the posts from the <b>Profile Walls</b> of your <b>Friends</b> are visible from the <b>Wall</b>.  
